@@ -15,3 +15,4 @@
 Теория:
 - [Селекторы](./css/theory/selectors.md)
 - [Комбинаторы](./css/theory/combinators.md)
+- [Цвет](./css/theory/color.md)
