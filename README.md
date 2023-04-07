@@ -13,6 +13,7 @@
 </div>
 
 Теория:
+- [Подключение стилей](./css/theory/connecting.md)
 - [Селекторы](./css/theory/selectors.md)
 - [Комбинаторы](./css/theory/combinators.md)
 - [Цвет](./css/theory/color.md)
