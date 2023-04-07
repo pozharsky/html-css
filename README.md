@@ -14,3 +14,4 @@
 
 Теория:
 - [Селекторы](./css/theory/selectors.md)
+- [Комбинаторы](./css/theory/combinators.md)
