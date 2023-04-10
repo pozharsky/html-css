@@ -17,6 +17,7 @@
 - [Селекторы](./css/theory/selectors.md)
 - [Комбинаторы](./css/theory/combinators.md)
 - [Цвет](./css/theory/color.md)
+- [Работа с текстом](./css/theory/text.md)
 
 Вопросы:
 - [Контрольные вопросы](./css/questions/questions-1.md)
