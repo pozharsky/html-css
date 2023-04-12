@@ -21,6 +21,7 @@
 - [Работа с текстом](./css/theory/text.md)
 - [Блочная модель](./css/theory/box-model.md)
 - [Поток](./css/theory/flow.md)
+- [Flexbox](./css/theory/flexbox.md)
 
 Вопросы:
 - [Контрольные вопросы](./css/questions/questions-1.md)
