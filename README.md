@@ -20,6 +20,7 @@
 - [Наследование](./css/theory/inheritance.md)
 - [Работа с текстом](./css/theory/text.md)
 - [Блочная модель](./css/theory/box-model.md)
+- [Поток](./css/theory/flow.md)
 
 Вопросы:
 - [Контрольные вопросы](./css/questions/questions-1.md)
