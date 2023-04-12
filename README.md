@@ -19,6 +19,7 @@
 - [Цвет](./css/theory/color.md)
 - [Наследование](./css/theory/inheritance.md)
 - [Работа с текстом](./css/theory/text.md)
+- [Блочная модель](./css/theory/box-model.md)
 
 Вопросы:
 - [Контрольные вопросы](./css/questions/questions-1.md)
