@@ -22,6 +22,11 @@
 - [Блочная модель](./css/theory/box-model.md)
 - [Поток](./css/theory/flow.md)
 - [Flexbox](./css/theory/flexbox.md)
+- [Сброс стилей](./css/theory/reset.md)
+- [Специфичность](./css/theory/reset.md)
+- [Псевдоклассы: структурные](./css/theory/pseudo-structure.md)
+- [Псевдоклассы: динамические](./css/theory/pseudo-dynamic.md)
+- [Работа с изображениями](./css/theory/images.md)
 
 Вопросы:
 - [Контрольные вопросы](./css/questions/questions-1.md)
