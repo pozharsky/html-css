@@ -27,6 +27,8 @@
 - [Псевдоклассы: структурные](./css/theory/pseudo-structure.md)
 - [Псевдоклассы: динамические](./css/theory/pseudo-dynamic.md)
 - [Работа с изображениями](./css/theory/images.md)
+- [Позиционирование](./css/theory/position.md)
+- [Анимация через `transition`](./css/theory/transition.md)
 
 Вопросы:
 - [Контрольные вопросы](./css/questions/questions-1.md)
