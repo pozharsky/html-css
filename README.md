@@ -35,3 +35,19 @@
 
 Задачи:
 - [Первый список задач](./css/tasks/task-1.md)
+
+
+<br />
+
+<div align="center">
+
+## JavaScript
+
+</div>
+
+Теория:
+- [Введение](./js/theory/intro.md)
+- [Глава 1. Типы данных](./js/theory/chapter-1.md)
+
+Тесты:
+- [Тесты к главе 1](./js/tests/chapter-1.md)
