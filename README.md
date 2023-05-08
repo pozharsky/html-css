@@ -52,3 +52,4 @@
 
 Тесты:
 - [Тесты к главе 1](./js/tests/chapter-1.md)
+- [Тесты к главе 2](./js/tests/chapter-2.md)
