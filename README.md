@@ -50,8 +50,10 @@
 - [Глава 1. Общее представление](./js/theory/chapter-1.md)
 - [Глава 2. Константы и переменные](./js/theory/chapter-2.md)
 - [Глава 3. Функции](./js/theory/chapter-3.md)
+- [Глава 4. Объекты](./js/theory/chapter-4.md)
 
 Тесты:
 - [Тесты к главе 1](./js/tests/chapter-1.md)
 - [Тесты к главе 2](./js/tests/chapter-2.md)
 - [Тесты к главе 3](./js/tests/chapter-3.md)
+- [Тесты к главе 4](./js/tests/chapter-4.md)
