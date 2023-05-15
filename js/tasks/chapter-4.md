@@ -306,7 +306,7 @@ const user1FullName = getFullName(user1);
 console.log(user1FullName); // Павел Дуров
 
 const user2FullName = getFullName(user2);
-console.log(user2FullName); // Владилен Минин
+console.log(user2FullName); // Илон Маск
 ```
 
 
