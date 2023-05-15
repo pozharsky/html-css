@@ -57,3 +57,6 @@
 - [Тесты к главе 2](./js/tests/chapter-2.md)
 - [Тесты к главе 3](./js/tests/chapter-3.md)
 - [Тесты к главе 4](./js/tests/chapter-4.md)
+
+Задачи:
+- [Задачи к главе 4](./js/tasks/chapter-4.md)
