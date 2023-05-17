@@ -51,6 +51,7 @@
 - [Глава 2. Константы и переменные](./js/theory/chapter-2.md)
 - [Глава 3. Функции](./js/theory/chapter-3.md)
 - [Глава 4. Объекты](./js/theory/chapter-4.md)
+- [Глава 5. Условные инструкции и циклы](./js/theory/chapter-5.md)
 
 Тесты:
 - [Тесты к главе 1](./js/tests/chapter-1.md)
