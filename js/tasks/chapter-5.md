@@ -303,3 +303,33 @@ showReverseNumbers(6);
 
 
 
+<br />
+<br />
+
+<div align="center">
+
+## Задача 10
+
+</div>
+
+Поиск наибольшего числа в массиве.
+
+1. Создайте несколько массивов состоящих из чисел.
+2. Напишите функцию `getMaxNumber`, которая принимает массив чисел и возвращает наибольшее число из этого массива.
+3. Запустите функцию несколько раз с разными аргументами.
+
+```js
+const nums1 = [5, 3, 10, 8];
+const nums2 = [-10, 2, -50];
+
+function getMaxNumber(/* Параметры... */) {
+  // Ваш код...
+}
+
+const maxNum1 = getMaxNumber(nums1);
+console.log(maxNum1); // 10
+
+const maxNum2 = getMaxNumber(nums2);
+console.log(maxNum2); // 2
+```
+
