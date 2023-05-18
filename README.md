@@ -61,3 +61,4 @@
 
 Задачи:
 - [Задачи к главе 4](./js/tasks/chapter-4.md)
+- [Задачи к главе 5](./js/tasks/chapter-5.md)
