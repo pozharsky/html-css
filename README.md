@@ -62,6 +62,7 @@
 Задачи:
 - [Задачи к главе 4](./js/tasks/chapter-4.md)
 - [Задачи к главе 5](./js/tasks/chapter-5.md)
+- [Задачи к главе 6](./js/tasks/chapter-6.md)
 
 Приложения:
 - [Приложение 1: Свойства и методы строк](./js/attachments/string.md)
