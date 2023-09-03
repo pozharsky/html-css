@@ -1,0 +1,12 @@
+.Header {
+  text-align: center;
+
+  &_time {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  &_greetings {
+    font-size: 20px;
+  }
+}

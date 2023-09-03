@@ -1,0 +1,9 @@
+.NotesWidget {
+  margin: 40px 10%;
+  display: flex;
+  gap: 20px;
+
+  & * {
+    flex-grow: 1;
+  }
+}

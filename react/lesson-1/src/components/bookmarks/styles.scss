@@ -1,0 +1,19 @@
+@import '../../styles/vars.scss';
+
+.Bookmarks {
+  background: $c_bg_primary;
+  border-radius: 8px;
+
+  &_header {
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    background: $c_bg_dark;
+    color: $c_text_secondary;
+    border-radius: 8px 8px 0 0;
+  }
+
+  &_body {
+    padding: 8px;
+  }
+}
