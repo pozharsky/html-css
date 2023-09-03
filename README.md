@@ -67,3 +67,14 @@
 Приложения:
 - [Приложение 1: Свойства и методы строк](./js/attachments/string.md)
 - [Приложение 2: Свойства и методы массивов](./js/attachments/array.md)
+
+
+<br />
+
+<div align="center">
+
+## Redux
+
+</div>
+
+- [Пример из занятия](./react/lesson-1/readme.md)
