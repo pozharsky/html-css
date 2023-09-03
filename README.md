@@ -73,8 +73,8 @@
 
 <div align="center">
 
-## Redux
+## React
 
 </div>
 
-- [Пример из занятия](./react/lesson-1/readme.md)
+- [Пример из занятия](./react/lesson-1/README.md)
