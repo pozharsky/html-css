@@ -77,4 +77,4 @@
 
 </div>
 
-- [Пример из занятия](./react/lesson-1/README.md)
+- [Проект 1](./react/lesson-1/)
