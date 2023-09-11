@@ -73,8 +73,9 @@
 
 <div align="center">
 
-## React
+## Исходники
 
 </div>
 
 - [Проект 1](./react/lesson-1/)
+- [Клиент и сервер](./react/lesson-2/)
